@@ -13,4 +13,4 @@
  
  🔹Deployment Link:
 You can check this project here:
-[https://lnkd.in/dk-45hYV](https://siddhiramehsutar.pythonanywhere.com/)
+https://siddhiramehsutar.pythonanywhere.com/
